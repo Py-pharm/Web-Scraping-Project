@@ -1,5 +1,12 @@
 # Web-Scraping-Project
 
-In this project, I scraped important information about hotels in Port Harcourt city.
+[https://hotels.ng/](Hotels.ng) is an online travel agency specialising in hotel bookings within Nigeria. They help customers book hotel rooms online, provide comprehensive help and support to their clients and make the hotel booking process smooth and easy.
+They also provide hotel recommendations and reviews, making sure that clients stay in good, clean and safe hotels all over the country.
+
+In this project, I gathered important information about hotels in Port Harcourt city using the python webscraping library library - Beautiful Soup.
+
+<img width="571" alt="hotels" src="https://user-images.githubusercontent.com/104560999/191952663-4185a39f-29d7-4783-aa67-99e8166d6650.png">
+
 The information include; hotel name, price per night, facilities, address, and so on.
-I transformed the scrapped data to a table(Data frame).
+
+I transformed the scrapped information to a Data Frame, saved in csv format to be used for important analysis.
