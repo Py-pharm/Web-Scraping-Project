@@ -9,4 +9,4 @@ In this project, I gathered important information about hotels in Port Harcourt 
 
 The information include; hotel name, price per night, facilities, address, and so on.
 
-I transformed the scrapped information to a Data Frame, saved in csv format to be used for important analysis.
+I transformed the scrapped information into a Dataframe and saved it in csv format to be used for important analysis.
