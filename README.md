@@ -1,6 +1,6 @@
 # Web-Scraping-Project
 
-[https://hotels.ng/](Hotels.ng) is an online travel agency specialising in hotel bookings within Nigeria. They help customers book hotel rooms online, provide comprehensive help and support to their clients and make the hotel booking process smooth and easy.
+[Hotels.ng](https://hotels.ng/) is an online travel agency specialising in hotel bookings within Nigeria. They help customers book hotel rooms online, provide comprehensive help and support to their clients and make the hotel booking process smooth and easy.
 They also provide hotel recommendations and reviews, making sure that clients stay in good, clean and safe hotels all over the country.
 
 In this project, I gathered important information about hotels in Port Harcourt city using the python webscraping library library - Beautiful Soup.
